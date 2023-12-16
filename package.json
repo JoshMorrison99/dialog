@@ -1,0 +1,22 @@
+{
+  "name": "dialog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@mui/icons-material": "^5.15.0",
+    "@mui/material": "^5.15.0",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-speech-recognition": "^3.10.0",
+    "regenerator-runtime": "^0.14.0"
+  }
+}
